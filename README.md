@@ -1,4 +1,4 @@
-##Requirements
+## Requirements
 
 Test suite requires [pytest](http://docs.pytest.org/en/latest/) to run.
 
@@ -7,7 +7,7 @@ Test suite requires [pytest](http://docs.pytest.org/en/latest/) to run.
     py.test handicapper
 
 
-##Running
+## Running
 
 Test input can be run through the test suite (handicapper/test/test_handicapper.py), or the handicapper can run independently. Call the file with the path to the rounds csv as an argument:
 
